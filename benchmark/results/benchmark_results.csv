@@ -1,0 +1,9 @@
+API,Endpoint,Method,Time(s)
+http://localhost:5000,create,POST,0.017229
+http://localhost:8888,create,POST,0.004574
+http://localhost:5000,read,GET,0.002306
+http://localhost:8888,read,GET,0.000555
+http://localhost:5000,update,PUT,0.003243
+http://localhost:8888,update,PUT,0.001363
+http://localhost:5000,delete,DELETE,0.002395
+http://localhost:8888,delete,DELETE,0.001283
